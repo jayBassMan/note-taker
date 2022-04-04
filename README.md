@@ -42,9 +42,7 @@ license under the MIT License
 
 ## Instruction
 
-undefined
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+After using CLI typing npm start, Go to browser and type localhost:3000 and start using application
 
 ## Tests
 
